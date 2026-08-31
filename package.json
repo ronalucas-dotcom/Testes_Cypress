@@ -1,0 +1,14 @@
+{
+  "name": "testes-cypress-veritas",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Testes E2E do fluxo de login da aplicação Veritas",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "test": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "15.21.1"
+  }
+}
